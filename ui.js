@@ -492,6 +492,7 @@ var menus = [
 		{ type: "butt", name: "You're on your own.", cb: () => {} },
 		{ type: "div" },
 		{ type: "butt", name: "About MODPlay...", cb: () => { window.open("https://github.com/prochazkaml/MODPlay", '_blank'); } },
+		{ type: "butt", name: "Source Code and License...", cb: () => { window.open("https://github.com/prochazkaml/webMODPlay", '_blank'); } },
 	] } }
 ];
 
